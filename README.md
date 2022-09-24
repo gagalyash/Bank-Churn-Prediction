@@ -22,4 +22,3 @@
 - Exploratory Data Analysis
 - Data Preprocessing
 - Model Creation and Evaluation
-- Improving the Model
